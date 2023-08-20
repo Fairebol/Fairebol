@@ -14,7 +14,7 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Fairebol&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Fairebol&theme=onestar&row=1&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 ### Contact
