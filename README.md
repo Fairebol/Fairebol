@@ -20,7 +20,7 @@
 
 ---
 
-># Languages & Technologies
+># Languages & TOOL's
 
 >>## Technologies
 
