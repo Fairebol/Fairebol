@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-    <h3>📋FullStack Senior a futuro.</h3>  
+    <h3>📋Meta Principal: Top Global de la Programación</h3>  
     <h4>Aprendiendo y dominando nuevas tecnologias, para crear websites y aplicaciones web</h4>
     <h4>Aqui mi página web: <a src="">http://localhost:8000/</a></h4>
 </div>
