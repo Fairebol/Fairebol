@@ -10,8 +10,8 @@
     <code>📋Meta Principal: Top Global de la Programación</code> <br>
     <code>Aprendiendo y dominando nuevas tecnologias, para crear websites y aplicaciones web</code>
     <h4>Aqui mi página web:</h4> <br>
-    <a src="http://localhost:8000/">http://localhost:8000/</a>
 </div>
+[http://localhost:8000] (http://localhost:8000)
 
 ---
 
