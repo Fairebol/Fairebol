@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-    <code>📋Meta Principal: Top Global de la Programación</code>  
+    <code>📋Meta Principal: Top Global de la Programación</code> <br>
     <code>Aprendiendo y dominando nuevas tecnologias, para crear websites y aplicaciones web</code>
     <h4>Aqui mi página web: 
         <a src="">http://localhost:8000/</a></h4>
