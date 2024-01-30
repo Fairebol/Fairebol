@@ -52,15 +52,6 @@
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-# Portfolio
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,md,cpp,php,js,nodejs,mysql" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=astro,react,tailwind,express,git,github" />
-</p>
-    
     
 
 
