@@ -58,7 +58,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind,express,git,github" />
+  <img src="https://skillicons.dev/icons?i=astro,react,tailwind,express,git,github" />
 </p>
     
     
