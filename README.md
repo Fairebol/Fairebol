@@ -7,8 +7,7 @@
 </div>
 
 <div align="center">
-    <code>📋Meta Principal: Top Global de la Programación</code> <br>
-    <code>Aprendiendo y dominando nuevas tecnologias, para crear websites y aplicaciones web</code>
+    <code>📋Aprendiendo y dominando nuevas tecnologias, para crear websites y aplicaciones web</code>
     <h4>Aqui mi página web:</h4>
     <a href="https://faromano.vercel.app" title="localhost">faromano.vercel.app</a>
 </div>
@@ -18,7 +17,7 @@
 
 <div align="center">
     <code><a href="www.linkedin.com/in/facundo-romano-83a08324b" title="localhost">Linkedin</a></code> <br>
-    <code><a href="mailto:facundocachy@gmail.com" title="localhost">E-mail</a></code> <br>
+    <code><a href="mailto:facundocachy@gmail.com" title="localhost">E-mail: facundocachy@gmail.com</a></code> <br>
     
     
 </div>
