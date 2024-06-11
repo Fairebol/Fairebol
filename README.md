@@ -47,7 +47,7 @@
 >>## Frameworks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind,alpinejs,express,laravel" />
+  <img src="https://skillicons.dev/icons?i=tailwind,alpinejs,express,laravel,react" />
 </p>
 
 >>## DataBases
