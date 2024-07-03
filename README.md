@@ -16,7 +16,7 @@
 ### Contact
 
 <div align="center">
-    <code><a href="www.linkedin.com/in/facundo-romano-83a08324b" title="localhost">Linkedin</a></code> <br>
+    <code><a href="https://www.linkedin.com/in/facundo-romano-83a08324b" title="localhost">Linkedin</a></code> <br>
     <code><a href="mailto:romanoforwork@gmail.com" title="localhost">E-mail: romanoforwork@gmail.comm</a></code> <br>
     
     
